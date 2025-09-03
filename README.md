@@ -1,4 +1,4 @@
-# MonroeIT CNCF Plan
+# CNCF Strategy Plan
 
 Private monorepo for planning, staging, and release kits. See `docs/` for the narrative and specs.
 
